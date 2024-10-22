@@ -1,2 +1,2 @@
-frase_bienvenida = 
+frase_bienvenida = "Vuelvo a lo básico p"
 
