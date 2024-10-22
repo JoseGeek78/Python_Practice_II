@@ -1,3 +1,3 @@
 frase_bienvenida = "Volviendo a lo básico"
 
-print()
+print(frase_bienvenida)
