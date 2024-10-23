@@ -1,3 +1,3 @@
-frase_bienvenida = "Volviendo a lo básico"
+# frase_bienvenida = "Volviendo a lo básico"
+# print(frase_bienvenida)
 
-print(frase_bienvenida)
