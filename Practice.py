@@ -1,4 +1,8 @@
 a = 'Valor inicial'
+print(a)
+
+a = 'Mi valor a cambiado'
+print(a)
 
 
 
