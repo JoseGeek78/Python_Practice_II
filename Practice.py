@@ -1,4 +1,6 @@
+nombre = input('Por favor, introduce tu nombre:')
 
+print(nombre)
 
 
 #a = 'Valor inicial'
