@@ -1,6 +1,6 @@
 nombre = input('Por favor, introduce tu nombre:\n')
 
-print('Bienvenido/a ' + nombre.)
+print('Bienvenido/a .' + nombre)
 
 
 #a = 'Valor inicial'
