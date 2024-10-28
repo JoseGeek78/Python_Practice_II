@@ -1,4 +1,4 @@
-
+print('Día uno de volver a lo básico en Python')
 
 
 # nombre = input('Por favor, introduce tu nombre:\n')
