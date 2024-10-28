@@ -1,7 +1,8 @@
-nombre = input('Por favor, introduce tu nombre:\n')
 
-print('Bienvenido/a .' + nombre)
 
+
+# nombre = input('Por favor, introduce tu nombre:\n')
+# print('Bienvenido/a .' + nombre)
 
 #a = 'Valor inicial'
 #print(a)
