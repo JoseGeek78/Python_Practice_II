@@ -1,5 +1,5 @@
 saludo = 'Día de volver a lo básico en Python.'
-
+print(saludo)
 
 
 # nombre = input('Por favor, introduce tu nombre:\n')
