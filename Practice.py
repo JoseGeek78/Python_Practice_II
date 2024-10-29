@@ -1,4 +1,5 @@
-print('Día de volver a lo básico en Python.')
+saludo = 'Día de volver a lo básico en Python.'
+
 
 
 # nombre = input('Por favor, introduce tu nombre:\n')
