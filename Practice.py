@@ -1,3 +1,6 @@
+frase_1 = 'Me llamo Pepito Pepe'
+frase_2 = 'y tengo 23 años.'
+
 
 
 
