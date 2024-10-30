@@ -1,7 +1,7 @@
 frase_1 = 'Me llamo Pepito Pepe'
 frase_2 = 'y tengo 23 años.'
 
-
+print(frase_1 + ' ' + frase_2)
 
 
 # saludo = 'Día de volver a lo básico en Python.'
