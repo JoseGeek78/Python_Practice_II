@@ -6,7 +6,7 @@ b = 'azul'
 c = 'rojo'
 a = c
 
-print(a)
+print(c)
 # nombre = input('Por favor, introduce tu nombre:\n')
 # print('Bienvenido/a .' + nombre)
 
