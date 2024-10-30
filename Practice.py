@@ -1,12 +1,13 @@
-saludo = 'Día de volver a lo básico en Python.'
-print(saludo)
 
-a = 'verde'
-b = 'azul'
-c = 'rojo'
-a = c
 
-print(c)
+
+# saludo = 'Día de volver a lo básico en Python.'
+# print(saludo)
+# a = 'verde'
+# b = 'azul'
+# c = 'rojo'
+# a = c
+# print(c)
 # nombre = input('Por favor, introduce tu nombre:\n')
 # print('Bienvenido/a .' + nombre)
 
