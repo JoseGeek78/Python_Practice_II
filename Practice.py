@@ -6,7 +6,8 @@ nombre = input('Introduzca su nombre:\n')
 edad = input('Introduzca su edad:\n')
 pais = input('Intruduzca su país de nacimiento:\n')
 
-
+# Frase final para presentarle al usuario su datos.
+print('')
 
 
 
