@@ -4,7 +4,9 @@ print('Hola, le voy a realizar una preguntas para conocerle mejor.')
 # Variables para almacenar los datos del usuario.
 nombre = input('Introduzca su nombre:\n')
 edad = input('Introduzca su edad:\n')
-pais = input('')
+pais = input('Intruduzca su país de nacimiento:\n')
+
+
 
 
 
