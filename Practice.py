@@ -1,4 +1,5 @@
-
+# Se informa al usuario de lo que hace el programa.
+print('Hola, le voy a realizar una preguntas para conocerle mejor.')
 
 
 
