@@ -1,9 +1,12 @@
+
+
+
 # Se informa al usuario de lo que hace el programa.
-print('Hola, le voy a realizar una preguntas para conocerle mejor.')
+# print('Hola, le voy a realizar una preguntas para conocerle mejor.')
 
 # Variables para almacenar los datos del usuario.
-nombre = input('Introduzca su nombre:\n')
-edad = input('Introduzca su edad:\n')
+# nombre = input('Introduzca su nombre:\n')
+# edad = input('Introduzca su edad:\n')
 # pais = input('Introduzca su país de nacimiento:\n')
 
 # Frase final para presentarle al usuario su datos.
