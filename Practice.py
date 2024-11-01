@@ -7,7 +7,7 @@ edad = input('Introduzca su edad:\n')
 pais = input('Introduzca su país de nacimiento:\n')
 
 # Frase final para presentarle al usuario su datos.
-print('Hola, ' + nombre + '. Usted tiene ' + edad + ' años y nació en ' + pais + '.')
+# print('Hola, ' + nombre + '. Usted tiene ' + edad + ' años y nació en ' + pais + '.')
 
 
 
