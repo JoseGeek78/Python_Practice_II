@@ -1,4 +1,4 @@
-
+print()
 
 
 # Se informa al usuario de lo que hace el programa.
