@@ -1,4 +1,4 @@
-print('Quiero "esto" entre comillas')
+print('Quiero "esto" entre comillas.')
 
 
 # Se informa al usuario de lo que hace el programa.
