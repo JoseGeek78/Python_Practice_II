@@ -1,5 +1,5 @@
 color = "Amarillo"
-
+print(color[0])
 # print(len(color))
 
 
