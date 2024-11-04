@@ -1,5 +1,6 @@
 color = "Amarillo"
-print(len(color))
+
+# print(len(color))
 
 
 # print('Quiero "esto" entre comillas.')
