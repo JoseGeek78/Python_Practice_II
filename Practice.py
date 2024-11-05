@@ -1,8 +1,8 @@
 numero_1 = 359
 numero_2 = 141
 
-numero_3 = 100
-numero_4 = 300
+numero_3 = "100"
+numero_4 = "300"
 
 print(numero_1 + numero_2)
 
