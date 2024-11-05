@@ -1,5 +1,9 @@
-color = "Amarillo"
-print(color[0])
+
+
+
+
+# color = "Amarillo"
+# print(color[0])
 # print(len(color))
 
 
