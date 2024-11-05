@@ -6,7 +6,6 @@
 # print(color[0])
 # print(len(color))
 
-
 # print('Quiero "esto" entre comillas.')
 
 # Se informa al usuario de lo que hace el programa.
