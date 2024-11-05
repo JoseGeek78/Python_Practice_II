@@ -1,7 +1,7 @@
 numero_1 = 359
 numero_2 = 141
 
-print
+print(numero_1 + numero_2)
 
 
 
