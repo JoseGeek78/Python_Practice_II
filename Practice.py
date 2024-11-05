@@ -1,4 +1,7 @@
+numero_1 = 359
+numero_2 = 141
 
+print
 
 
 
