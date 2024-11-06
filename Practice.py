@@ -4,7 +4,7 @@ numero_2 = 141
 numero_3 = "100"
 numero_4 = "300"
 
-resultado = numero_1 + numero_2
+resultado = numero_1 * numero_2
 print(resultado)
 # print(numero_1 + numero_2)
 # print(numero_3 + numero_4)
