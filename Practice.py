@@ -5,7 +5,7 @@ numero_3 = "100"
 numero_4 = "300"
 
 resultado_1 = numero_1 * numero_2
-resultado_2 = numero_2 / numero_1
+#resultado_2 = numero_2 / numero_1
 print(resultado_1)
 print(resultado_2)
 # print(numero_1 + numero_2)
