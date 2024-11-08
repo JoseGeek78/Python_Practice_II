@@ -1,8 +1,13 @@
-numero_1 = 359
-numero_2 = 141
 
-numero_3 = "100"
-numero_4 = "300"
+
+
+
+
+# numero_1 = 359
+# numero_2 = 141
+
+# numero_3 = "100"
+# numero_4 = "300"
 
 # resultado_1 = numero_1 * numero_2
 #resultado_2 = numero_2 / numero_1
