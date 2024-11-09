@@ -1,7 +1,4 @@
-print(2**20)
-
-
-
+#print(2**20)
 
 # numero_1 = 359
 # numero_2 = 141
