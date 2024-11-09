@@ -3,7 +3,10 @@ numero_2 = 785.56
 texto = 'Soy un string.'
 decision = True
 
-
+print(type(numero_1))
+print(type(numero_2))
+print(type(texto))
+print(type(decision))
 
 
 
