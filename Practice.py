@@ -1,3 +1,9 @@
+numero_1 = 7
+numero_2 = 785.56
+texto = 
+
+
+
 #print(2**20)
 
 # numero_1 = 359
