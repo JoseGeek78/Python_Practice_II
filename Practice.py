@@ -1,6 +1,9 @@
 numero_1 = 7
 numero_2 = 785.56
-texto = 
+texto = 'Soy un string.'
+decision = True
+
+
 
 
 
