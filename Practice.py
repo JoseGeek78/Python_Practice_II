@@ -2,6 +2,8 @@ numero = 259896594
 
 digitos =str(numero)
 
+print(len(digitos))
+
 
 
 # numero_1 = 7
