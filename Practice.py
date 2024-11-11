@@ -1,6 +1,6 @@
 numero = 259896594
 
-digitos =str()
+digitos =str(numero)
 
 
 
