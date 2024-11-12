@@ -1,9 +1,10 @@
-numero = 25989659454995
 
-digitos =str(numero)
+
+
+
+# numero = 25989659454995
+# digitos =str(numero)
 # print(len(digitos))
-
-
 
 # numero_1 = 7
 # numero_2 = 785.56
