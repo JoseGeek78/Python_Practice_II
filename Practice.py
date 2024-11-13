@@ -1,5 +1,5 @@
-numero_1 = '10'
-numero_2 = '50'
+numero_1 = '10.56'
+numero_2 = '50.9'
 
 suma = int(numero_1) + int(numero_2)
 
