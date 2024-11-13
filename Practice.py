@@ -1,5 +1,9 @@
+numero_1 = '10'
+numero_2 = '50'
 
+suma = int(numero_1) + int(numero_2)
 
+print(suma)
 
 
 # numero = 25989659454995
