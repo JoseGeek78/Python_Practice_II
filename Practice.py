@@ -1,7 +1,7 @@
 numero_1 = '10.56'
 numero_2 = '50.9'
 
-suma = int(numero_1) + int(numero_2)
+suma = float(numero_1) + float(numero_2)
 
 print(suma)
 
