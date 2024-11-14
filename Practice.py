@@ -1,12 +1,16 @@
-numero_1 = '10.56'
-numero_2 = '50.9'
 
-suma = float(numero_1) + float(numero_2)
 
-print(suma)
 
-type(suma)
 
+
+# numero_1 = '10.56'
+# numero_2 = '50.9'
+
+# suma = float(numero_1) + float(numero_2)
+
+# print(suma)
+
+# type(suma)
 
 # numero = 25989659454995
 # digitos =str(numero)
