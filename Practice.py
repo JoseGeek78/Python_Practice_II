@@ -5,6 +5,8 @@ suma = float(numero_1) + float(numero_2)
 
 print(suma)
 
+type(suma)
+
 
 # numero = 25989659454995
 # digitos =str(numero)
