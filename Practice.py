@@ -4,6 +4,9 @@ numero_2 = 10.58
 suma = numero_1 + numero_2
 print(suma)
 
+trunca_suma = int(suma)
+
+
 
 
 
