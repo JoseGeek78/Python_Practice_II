@@ -5,7 +5,7 @@ suma = numero_1 + numero_2
 print(suma)
 
 trunca_suma = int(suma)
-
+print(trunca_suma)
 
 
 
