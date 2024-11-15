@@ -1,11 +1,11 @@
-numero_1 = 10.59865
-numero_2 = 10.58
+# numero_1 = 10.59865
+# numero_2 = 10.58
 
-suma = numero_1 + numero_2
-print(suma)
+# suma = numero_1 + numero_2
+# print(suma)
 
-trunca_suma = int(suma)
-print(trunca_suma)
+# trunca_suma = int(suma)
+# print(trunca_suma)
 
 
 
