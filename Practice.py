@@ -1,6 +1,6 @@
 multiplicacion = 7.5698 * 6.3256
 
-print(multiplicacion)
+print(round(multiplicacion))
 
 
 
