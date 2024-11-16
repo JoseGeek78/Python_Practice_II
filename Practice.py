@@ -1,3 +1,7 @@
+
+
+
+
 # numero_1 = 10.59865
 # numero_2 = 10.58
 
@@ -6,9 +10,6 @@
 
 # trunca_suma = int(suma)
 # print(trunca_suma)
-
-
-
 
 # numero_1 = '10.56'
 # numero_2 = '50.9'
