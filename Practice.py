@@ -2,8 +2,6 @@ multiplicacion = 7.5698 * 6.3256
 
 print(round(multiplicacion))
 
-
-
 # numero_1 = 10.59865
 # numero_2 = 10.58
 
