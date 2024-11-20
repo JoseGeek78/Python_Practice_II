@@ -1,7 +1,9 @@
 
 
 
-
+print(round(7.5))
+print(round(5.6239))
+print(round(6.2))
 
 # multiplicacion = 7.5698 * 6.3256
 
