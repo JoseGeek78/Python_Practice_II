@@ -1,6 +1,7 @@
 division_1 = 10 // 3
-
-print(division)
+division_2 = 10 / 3
+print(division_1)
+print(division_2)
 
 
 
