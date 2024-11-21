@@ -3,9 +3,9 @@ multiplicacion = 5.5698 * 7.45874
 print(round(multiplicacion, 2))
 print(round(multiplicacion, 3))
 
-print(round(7.5))
-print(round(5.6239))
-print(round(6.2))
+# print(round(7.5))
+# print(round(5.6239))
+# print(round(6.2))
 
 # multiplicacion = 7.5698 * 6.3256
 
