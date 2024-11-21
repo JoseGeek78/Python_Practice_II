@@ -1,3 +1,9 @@
+division_1 = 10 // 3
+
+print(division)
+
+
+
 
 # multiplicacion = 5.5698 * 7.45874
 # print(round(multiplicacion, 2))
