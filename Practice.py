@@ -1,10 +1,10 @@
 division = 10 % 3 # Devuelve el resto de la división
 print(division)
 
-division_1 = 10 // 3
-division_2 = 10 / 3
-print(division_1)
-print(division_2)
+# division_1 = 10 // 3
+# division_2 = 10 / 3
+# print(division_1)
+# print(division_2)
 
 # multiplicacion = 5.5698 * 7.45874
 # print(round(multiplicacion, 2))
