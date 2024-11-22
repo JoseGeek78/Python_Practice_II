@@ -1,4 +1,4 @@
-division = 58 % 3 # Devuelve el resto de la división
+division = 258 % 5 # Devuelve el resto de la división
 print(division)
 
 # division_1 = 10 // 3
