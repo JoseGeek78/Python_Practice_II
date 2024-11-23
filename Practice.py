@@ -1,5 +1,10 @@
-division = 258 % 5 # Devuelve el resto de la división
-print(division)
+
+
+
+
+
+# division = 258 % 5 # Devuelve el resto de la división
+# print(division)
 
 # division_1 = 10 // 3
 # division_2 = 10 / 3
