@@ -1,4 +1,6 @@
-
+multiplicacion = 5698 *78
+print(multiplicacion)
+print(round(multiplicacion))
 
 
 
