@@ -1,4 +1,4 @@
-multiplicacion = 5698 *78
+multiplicacion = 5698.25 * 78.23
 print(multiplicacion)
 print(round(multiplicacion))
 
