@@ -1,6 +1,6 @@
-multiplicacion = 5698.25 * 78.23
-print(multiplicacion)
-print(round(multiplicacion))
+# multiplicacion = 5698.25 * 78.23
+# print(multiplicacion)
+# print(round(multiplicacion))
 
 # division = 5698 // 56
 # division_1 = 5698 / 56
