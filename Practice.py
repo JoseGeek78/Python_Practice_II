@@ -6,9 +6,9 @@ division = 5698 // 56
 division_1 = 5698 / 56
 print(division, division_1)
 
-resto = 8569 & 58
-division_2 = 8569 // 58
-print(resto, division_2)
+# resto = 8569 & 58
+# division_2 = 8569 // 58
+# print(resto, division_2)
 
 
 # division = 258 % 5 # Devuelve el resto de la división
