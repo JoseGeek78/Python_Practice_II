@@ -78,8 +78,6 @@
 # print(numero_1 + numero_2)
 # print(numero_3 + numero_4)
 
-
-
 # color = "Amarillo"
 # print(color[0])
 # print(len(color))
@@ -97,12 +95,9 @@
 # Frase final para presentarle al usuario su datos.
 # print('Hola, ' + nombre + '. Usted tiene ' + edad + ' años y nació en ' + pais + '.')
 
-
-
 # frase_1 = 'Me llamo Pepito Pepe'
 # frase_2 = 'y tengo 23 años.'
 # print(frase_1 + ' ' + frase_2)
-
 
 # saludo = 'Día de volver a lo básico en Python.'
 # print(saludo)
