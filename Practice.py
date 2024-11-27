@@ -1,4 +1,4 @@
-numero_ = 25 
+numero_1 = 25 
 numero_1 += 10
 print(numero_1)
 
