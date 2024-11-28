@@ -1,5 +1,6 @@
-
-
+numero = 158
+numero -= 35
+print(numero)
 
 
 # numero_1 = 25 
