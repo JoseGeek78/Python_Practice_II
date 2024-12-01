@@ -1,4 +1,5 @@
-
+multiplicacion = 525823 * 8569.56
+print(multiplicacion)
 
 
  
