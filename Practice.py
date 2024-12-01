@@ -1,9 +1,9 @@
-multiplicacion = 525823 * 8569.56
+multiplicacion = 525823.55 * 8569.56
 print(multiplicacion)
 print(round(multiplicacion))
+print(round(multiplicacion, 2))
 
 
- 
 # numero = 158
 # numero -= 35
 # print(numero)
