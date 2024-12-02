@@ -3,8 +3,7 @@ print(multiplicacion)
 print(round(multiplicacion))
 print(round(multiplicacion, 2))
 print(round(multiplicacion, 3))
-print(round(multiplicacion, 4))
-
+#print(round(multiplicacion, 4))
 
 # numero = 158
 # numero -= 35
