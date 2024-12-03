@@ -1,3 +1,6 @@
+suma = 985 + 563
+
+
 # multiplicacion = 525823.559 * 8569.567
 # print(multiplicacion)
 # print(round(multiplicacion))
