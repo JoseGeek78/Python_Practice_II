@@ -1,5 +1,5 @@
 suma_2 =78965 + 548959
-print()
+print(f'El resultado de tu segunda sumas es: {}')
 
 
 suma = 985 + 563
