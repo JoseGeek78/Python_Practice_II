@@ -2,8 +2,8 @@ suma_2 =78965 + 548959
 print(f'El resultado de tu segunda suma es: {suma_2}')
 
 
-suma = 985 + 563
-print(f'El resultado de la suma es: {suma}')
+# suma = 985 + 563
+# print(f'El resultado de la suma es: {suma}')
 
 # multiplicacion = 525823.559 * 8569.567
 # print(multiplicacion)
