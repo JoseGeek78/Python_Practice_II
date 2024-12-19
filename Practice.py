@@ -1,4 +1,9 @@
+numero_1 = 4
+numero_2 = 769.97
+texto = 'Am I a string'
+decision = True
 
+print()
 
 
 # suma_2 =78965 + 548959
