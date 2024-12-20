@@ -1,9 +1,13 @@
-numero_1 = 4
-numero_2 = 769.97
-texto = 'Am I a string'
-decision = True
 
-print(f'El valor {numero_2} es bastante más grande que {numero_1}. ¿{texto}? The answer is {decision}.')
+
+
+
+# numero_1 = 4
+# numero_2 = 769.97
+#  texto = 'Am I a string'
+# decision = True
+
+# print(f'El valor {numero_2} es bastante más grande que {numero_1}. ¿{texto}? The answer is {decision}.')
 
 
 # suma_2 =78965 + 548959
