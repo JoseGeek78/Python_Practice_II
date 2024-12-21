@@ -3,7 +3,7 @@ print("--- Calculadora de exponentes ---")
 
 # Se solicitan los números para realizar el cálculo y se trasnforman a integer.
 numero_1 = int(input('Introduzca el primer número.\n'))
-
+numero_2 = int(input('Introduzca el segundo número.\n'))
 
 
 # numero_1 = 4
