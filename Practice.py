@@ -5,6 +5,8 @@ print("--- Calculadora de exponentes ---")
 numero_1 = int(input('Introduzca el primer número.\n'))
 numero_2 = int(input('Introduzca el segundo número.\n'))
 
+# Se realiza el cálculo y se almacena en una variable.
+
 
 # numero_1 = 4
 # numero_2 = 769.97
