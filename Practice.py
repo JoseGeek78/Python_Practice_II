@@ -1,7 +1,7 @@
 # Se indica al ususario de qué va la aplicación.
 print("--- Calculadora de exponentes ---")
 
-# 
+# Se solicitan los números para realizar el cálculo y se trasnforman a integer.
 
 
 
