@@ -8,6 +8,9 @@ numero_2 = int(input('Introduzca el segundo número.\n'))
 # Se realiza el cálculo y se almacena en una variable.
 resultado = numero_1 ** numero_2
 
+# Se le muestra el resultado al usuario.
+
+
 
 # numero_1 = 4
 # numero_2 = 769.97
