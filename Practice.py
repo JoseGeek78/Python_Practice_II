@@ -6,6 +6,7 @@ numero_1 = int(input('Introduzca el primer número.\n'))
 numero_2 = int(input('Introduzca el segundo número.\n'))
 
 # Se realiza el cálculo y se almacena en una variable.
+resultado = numero_1 ** numero_2
 
 
 # numero_1 = 4
