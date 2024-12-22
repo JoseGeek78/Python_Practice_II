@@ -9,7 +9,7 @@ numero_2 = int(input('Introduzca el segundo número.\n'))
 resultado = numero_1 ** numero_2
 
 # Se le muestra el resultado al usuario.
-
+print(f'el resultado')
 
 
 # numero_1 = 4
