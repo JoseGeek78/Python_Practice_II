@@ -1,15 +1,15 @@
 # Se indica al ususario de qué va la aplicación.
-print("--- Calculadora de exponentes ---")
+# print("--- Calculadora de exponentes ---")
 
 # Se solicitan los números para realizar el cálculo y se trasnforman a integer.
-numero_1 = int(input('Introduzca el primer número.\n'))
-numero_2 = int(input('Introduzca el segundo número.\n'))
+# numero_1 = int(input('Introduzca el primer número.\n'))
+# numero_2 = int(input('Introduzca el segundo número.\n'))
 
 # Se realiza el cálculo y se almacena en una variable.
-resultado = numero_1 ** numero_2
+# resultado = numero_1 ** numero_2
 
 # Se le muestra el resultado al usuario.
-print(f'El resultado de {numero_1} elevado a {numero_2} es {resultado}.')
+# print(f'El resultado de {numero_1} elevado a {numero_2} es {resultado}.')
 
 
 # numero_1 = 4
