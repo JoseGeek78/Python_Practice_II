@@ -1,4 +1,4 @@
 numero = 10
 
 if numero > 7:
-    print('')
+    print('El número es mayor que 7.')
