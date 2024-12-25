@@ -1,7 +1,7 @@
 edad = int(input('Introduzca su edad:\n'))
 
 # Se deja la variable sin valor.
-
+respuesta = None
 
 
 
