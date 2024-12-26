@@ -5,7 +5,8 @@ respuesta = None
 
 # Se evalúa si el usuario es mayor de edad. Si lo es, accede 
 # a la compra de alcohol.
-
+if edad >= 18:
+    print('Es mayor de edad, puede comprar alcohol. ¿Cuál desea? Inroduzca un número de opción')
 
 
 
