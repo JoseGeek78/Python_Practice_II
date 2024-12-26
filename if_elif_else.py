@@ -7,6 +7,7 @@ respuesta = None
 # a la compra de alcohol.
 if edad >= 18:
     print('Es mayor de edad, puede comprar alcohol. ¿Cuál desea? Inroduzca un número de opción')
+    respuesta = input()
 
 
 
