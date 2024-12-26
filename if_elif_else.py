@@ -3,6 +3,8 @@ edad = int(input('Introduzca su edad:\n'))
 # Se deja la variable sin valor.
 respuesta = None
 
+# Se evalúa si el usuario es mayor de edad. 
+
 
 
 # numero = 7
