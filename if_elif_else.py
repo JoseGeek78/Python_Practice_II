@@ -7,7 +7,7 @@ respuesta = None
 # a la compra de alcohol.
 if edad >= 18:
     print('Es mayor de edad, puede comprar alcohol. ¿Cuál desea? Inroduzca un número de opción')
-    respuesta = input('1- ron.\n2- whisky\3- ginebra.\n')
+    respuesta = input('1- ron.\n2- whisky\n183- ginebra.\n')
     
     if respuesta == '1':
         print('Ha elegido comprar ron.')
@@ -18,6 +18,7 @@ if edad >= 18:
     else:
         print('Opción no válida.')
 else:
+    print('Es menor de edad, vuelva de aquí a un tiempo o no empiece con el alcohol.12')
 
 
 
