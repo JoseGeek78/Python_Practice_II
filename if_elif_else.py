@@ -10,6 +10,7 @@ if edad >= 18:
     respuesta = input('1- ron.\n2- whisky\3- ginebra.\n')
     
     if respuesta == '1':
+        print('Ha elegido comprar ron')
 
 
 
