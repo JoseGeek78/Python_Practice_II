@@ -13,6 +13,11 @@ if edad >= 18:
         print('Ha elegido comprar ron.')
     elif respuesta == '2':
         print('Ha elegido comprar whisky.')
+    elif respuesta == '3':
+        print('Ha elegido comprar ginebra.')
+    else:
+        print('Opción no válida.')
+else:
 
 
 
