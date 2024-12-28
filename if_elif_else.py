@@ -2,7 +2,9 @@ color = 'rojo'
 forma = 'círculo'
 
 if color == 'rojo' and forma == 'círculo':
-    
+    print('Es un círculo rojo.')
+else:
+    print('Nose cumple la condición.')
 
 
 
