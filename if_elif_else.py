@@ -40,7 +40,6 @@ else:
 
 
 
-
 # numero = 7
 
 # if numero > 7:
