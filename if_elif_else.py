@@ -1,10 +1,11 @@
 color = 'rojo'
-forma = 'círculo'
+# forma = 'círculo'
+forma = 'cuadrado'
 
 if color == 'rojo' and forma == 'círculo':
     print('Es un círculo rojo.')
 else:
-    print('Nose cumple la condición.')
+    print('No se cumple la condición.')
 
 
 
