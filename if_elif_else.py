@@ -39,7 +39,6 @@ else:
 #     print('Es menor de edad, vuelva de aquí a un tiempo o no empiece con el alcohol.')
 
 
-
 # numero = 7
 
 # if numero > 7:
