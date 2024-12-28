@@ -1,4 +1,8 @@
+color = 'rojo'
+forma = 'círculo'
 
+if color == 'rojo' and forma == 'círculo':
+    
 
 
 
