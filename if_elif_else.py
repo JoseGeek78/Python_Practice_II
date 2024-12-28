@@ -8,7 +8,6 @@ else:
     print('No se cumple la condición.')
 
 
-
 # edad = int(input('Introduzca su edad:\n'))
 
 # # Se deja la variable sin valor.
