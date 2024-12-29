@@ -1,9 +1,11 @@
-color = 'rojo'
-# forma = 'círculo'
+color = 'azul'
 forma = 'cuadrado'
+# forma = 'cuadrado'
+# tamaño = 'grande'
+tamaño = 'grande'
 
-if color == 'rojo' and forma == 'círculo':
-    print('Es un círculo rojo.')
+if not(color == 'rojo' and forma == 'círculo' and tamaño == 'pequeño'):
+    print('Es un cuadrado azul.')
 else:
     print('No se cumple la condición.')
 
