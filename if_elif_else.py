@@ -1,4 +1,11 @@
+error = input('Introduzca un código de error:\n')
 
+match error:
+    case '200':
+        print('Todo ok.')
+    case '301':
+        print('Movimiento permanente de la página.')
+    
 
 
 
