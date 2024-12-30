@@ -12,10 +12,9 @@ match error:
     case '500':
         print('Error interno del servidor.')
     case '503':
-        
-
-
-
+        print('Servicio no disponible.')
+    case defecto:
+        print('Error no disponible.')
 
 # color = 'azul'
 # forma = 'cuadrado'
