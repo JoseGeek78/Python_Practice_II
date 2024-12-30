@@ -5,6 +5,10 @@ match error:
         print('Todo ok.')
     case '301':
         print('Movimiento permanente de la página.')
+    case '302':
+        print('Movimiento temporal de la página.')
+    case '404':
+        print('Página no encontrada.')
     
 
 
