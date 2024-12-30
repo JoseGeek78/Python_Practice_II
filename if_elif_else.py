@@ -9,7 +9,10 @@ match error:
         print('Movimiento temporal de la página.')
     case '404':
         print('Página no encontrada.')
-    
+    case '500':
+        print('Error interno del servidor.')
+    case '503':
+        
 
 
 
