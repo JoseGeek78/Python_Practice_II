@@ -1,13 +1,18 @@
-color = 'azul'
-forma = 'cuadrado'
+
+
+
+
+
+# color = 'azul'
+# forma = 'cuadrado'
 # forma = 'cuadrado'
 # tamaño = 'grande'
-tamaño = 'grande'
+# tamaño = 'grande'
 
-if not(color == 'rojo' and forma == 'círculo' and tamaño == 'pequeño'):
-    print('Es un cuadrado azul.')
-else:
-    print('No se cumple la condición.')
+# if not(color == 'rojo' and forma == 'círculo' and tamaño == 'pequeño'):
+#     print('Es un cuadrado azul.')
+# else:
+#    print('No se cumple la condición.')
 
 
 # edad = int(input('Introduzca su edad:\n'))
