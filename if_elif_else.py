@@ -9,6 +9,9 @@
 # tamaño = 'grande'
 # tamaño = 'grande'
 
+# if (color == 'rojo' and forma == 'círculo' and tamaño == 'pequeño'):
+#     print('Es un cuadrado azul.')
+
 # if not(color == 'rojo' and forma == 'círculo' and tamaño == 'pequeño'):
 #     print('Es un cuadrado azul.')
 # else:
