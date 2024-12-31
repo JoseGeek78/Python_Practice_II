@@ -2,6 +2,8 @@ error = input('Introduzca un código de error\n')
 
 if error == '200':
     print('Todo ok.')
+elif error = '301':
+    print('Movimiento permanente de la página.')
 
 
 # error = input('Introduzca un código de error:\n')
