@@ -5,7 +5,7 @@ if error == '200':
 elif error == '301':
     print('Movimiento permanente de la página.')
 elif error == '302':
-    print
+    print('Movimiento temporal de la página.')
 
 
 # error = input('Introduzca un código de error:\n')
