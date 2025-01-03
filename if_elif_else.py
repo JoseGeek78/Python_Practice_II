@@ -9,7 +9,9 @@ elif error == '302':
 elif error == '404':
     print('Página no encontrada.')
 elif error == '500':
-    print()
+    print('error interno del servidor.')
+elif error == '503':
+    print('Servicio no disponible.')
 
 
 # error = input('Introduzca un código de error:\n')
