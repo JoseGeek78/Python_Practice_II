@@ -8,6 +8,8 @@ elif error == '302':
     print('Movimiento temporal de la página.')
 elif error == '404':
     print('Página no encontrada.')
+elif error == '500':
+    print()
 
 
 # error = input('Introduzca un código de error:\n')
