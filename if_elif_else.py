@@ -13,8 +13,8 @@ elif error == '500':
 elif error == '503':
     print('Servicio no disponible.')
 else:
-    print('Error no disponible')
- 
+    print('Error no disponible.')
+
 
 # error = input('Introduzca un código de error:\n')
 
