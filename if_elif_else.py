@@ -12,8 +12,8 @@ elif error == '500':
     print('error interno del servidor.')
 elif error == '503':
     print('Servicio no disponible.')
-elif
-
+else:
+ 
 
 # error = input('Introduzca un código de error:\n')
 
