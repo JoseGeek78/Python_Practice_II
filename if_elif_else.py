@@ -1,7 +1,7 @@
 color = 'verde'
-forma = 'triangulo'
+forma = 'cuadrado'
 
-if color == 'verde' and forma == 'cuadrado':
+if color == 'verde' or forma == 'triangulo':
     print('Es un cuadrado verde.')
 else:
     print('No sé qué es.')
