@@ -1,9 +1,10 @@
-numero = 7
+color = 'verde'
+forma = 'triangulo'
 
-if numero == 7:
-    print('Verdadero!')
+if color == 'verde' and forma == 'cuadrado':
+    print('Es un cuadrado verde.')
 else:
-    print('Falso!')
+    print('No sé qué es.')
 
 
 # error = input('Introduzca un código de error\n')
