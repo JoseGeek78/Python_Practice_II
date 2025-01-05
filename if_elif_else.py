@@ -1,19 +1,19 @@
-error = input('Introduzca un código de error\n')
+# error = input('Introduzca un código de error\n')
 
-if error == '200':
-    print('Todo ok.')
-elif error == '301':
-    print('Movimiento permanente de la página.')
-elif error == '302':
-    print('Movimiento temporal de la página.')
-elif error == '404':
-    print('Página no encontrada.')
-elif error == '500':
-    print('error interno del servidor.')
-elif error == '503':
-    print('Servicio no disponible.')
-else:
-    print('Error no disponible.')
+# if error == '200':
+#     print('Todo ok.')
+# elif error == '301':
+#     print('Movimiento permanente de la página.')
+# elif error == '302':
+#     print('Movimiento temporal de la página.')
+# elif error == '404':
+#     print('Página no encontrada.')
+# elif error == '500':
+#    print('error interno del servidor.')
+# elif error == '503':
+#    print('Servicio no disponible.')
+# else:
+#     print('Error no disponible.')
 
 
 # error = input('Introduzca un código de error:\n')
