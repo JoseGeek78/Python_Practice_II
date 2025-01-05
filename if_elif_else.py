@@ -1,4 +1,9 @@
+numero = 7
 
+if numero != 7:
+    print('Verdadero!')
+else:
+    print('Falso!')
 
 
 # error = input('Introduzca un código de error\n')
