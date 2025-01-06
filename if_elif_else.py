@@ -1,10 +1,10 @@
-color = 'verde'
-forma = 'cuadrado'
+# color = 'verde'
+# forma = 'cuadrado'
 
-if color == 'verde' or forma == 'triangulo':
-    print('Es un cuadrado verde.')
-else:
-    print('No sé qué es.')
+# if color == 'verde' or forma == 'triangulo':
+#     print('Es un cuadrado verde.')
+# else:
+#     print('No sé qué es.')
 
 
 # error = input('Introduzca un código de error\n')
