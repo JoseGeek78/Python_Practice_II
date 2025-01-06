@@ -1,3 +1,10 @@
+color = 'rojo'
+forma = 'círculo'
+tamaño = 'pequeño'
+
+
+
+
 # color = 'verde'
 # forma = 'cuadrado'
 
