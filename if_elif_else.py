@@ -2,7 +2,10 @@ color = 'rojo'
 forma = 'círculo'
 tamaño = 'pequeño'
 
-
+if color == 'rojo' and forma == 'círculo' and tamaño == 'pequeño':
+    print('Correcto.')
+else:
+    print('Falso.')
 
 
 # color = 'verde'
