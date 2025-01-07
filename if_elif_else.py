@@ -4,7 +4,8 @@ numero_3 = 15
 
 if numero_1 == numero_2 and numero_3 > numero_1:
     print('Se cumple la condición.')
-
+else:
+    print('No se cumple la condición.')
 
 # color = 'rojo'
 # forma = 'círculo'
