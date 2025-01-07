@@ -1,5 +1,10 @@
-color = 'rojo'
-forma = 'círculo'
+numero_1 = 10
+numero_2 = 10
+
+
+
+# color = 'rojo'
+# forma = 'círculo'
 # tamaño = 'pequeño'
 
 # if color == 'rojo' and forma == 'círculo' and tamaño == 'grande':
