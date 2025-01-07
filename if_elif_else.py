@@ -1,11 +1,11 @@
 color = 'rojo'
 forma = 'círculo'
-tamaño = 'pequeño'
+# tamaño = 'pequeño'
 
-if color == 'rojo' and forma == 'círculo' and tamaño == 'grande':
-    print('Correcto.')
-else:
-    print('Falso.')
+# if color == 'rojo' and forma == 'círculo' and tamaño == 'grande':
+#     print('Correcto.')
+# else:
+#     print('Falso.')
 
 
 # color = 'verde'
