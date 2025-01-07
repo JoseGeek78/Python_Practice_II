@@ -1,5 +1,5 @@
 numero_1 = 10
-numero_2 = 10
+numero_2 = 1
 numero_3 = 15
 
 if numero_1 == numero_2 and numero_3 > numero_1:
