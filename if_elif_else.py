@@ -1,6 +1,3 @@
-
-
-
 # numero_1 = 10
 # numero_2 = 1
 # numero_3 = 15
