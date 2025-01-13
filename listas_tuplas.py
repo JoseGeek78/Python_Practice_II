@@ -1,7 +1,8 @@
 lista_colores = ['Rojo.', 'Azul.', 'Verde.', 'Amarillo.']
 
 print(lista_colores[1][1])
-print
+print(lista_colores[-1])
+print(lista_colores[-4])
 
 # lista_colores = ['Rojo.', 'Azul.', 'Verde.', 'Amarillo.']
 
