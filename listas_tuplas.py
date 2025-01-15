@@ -1,7 +1,7 @@
 lista_colores = ['Rojo', 'Azul', 'Verde', 'Amarillo']
 
-lista_colores[1] = 'Naranja'
-lista_colores.append('Blanco')
+# lista_colores[1] = 'Naranja'
+# lista_colores.append('Blanco')
 lista_colores.insert(0,'Morado')
 
 print(lista_colores)
