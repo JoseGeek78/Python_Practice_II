@@ -1,6 +1,6 @@
 lista_colores = ['Rojo', 'Azul', 'Rojo', 'Rojo', 'Verde', 'Amarillo', 'Morado']
 
-
+print(lista_colores.count('Rojo'))
 
 
 # lista_colores[1] = 'Naranja'
