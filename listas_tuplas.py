@@ -2,9 +2,9 @@ lista_colores = ['Rojo', 'Azul', 'Verde', 'Amarillo']
 
 # lista_colores[1] = 'Naranja'
 # lista_colores.append('Blanco')
-lista_colores.insert(0,'Morado')
-lista_colores.pop(1)
-lista_colores.remove('Azul')
+# lista_colores.insert(0,'Morado')
+# lista_colores.pop(1)
+# lista_colores.remove('Azul')
 
 print(lista_colores)
 
