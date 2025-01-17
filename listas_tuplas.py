@@ -1,4 +1,4 @@
-lista_colores = ['Rojo', 'Azul', 'Rojo', 'Rojo', 'Verde', 'Amarillo', 'Morado']
+lista_colores = ['Azul', 'Rojo', 'Rojo', 'Verde', 'Amarillo', 'Morado']
 
 print(lista_colores.count('Rojo'))
 print(lista_colores.index('Rojo'))
