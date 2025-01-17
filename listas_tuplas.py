@@ -9,6 +9,9 @@ lista.sort()
 
 print(lista)
 
+lista_numeros = [55, 10, 65, 3, 158, 6, 3, 45, 3, 986]
+
+
 
 # lista_colores[1] = 'Naranja'
 # lista_colores.append('Blanco')
