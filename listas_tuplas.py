@@ -3,6 +3,11 @@ lista_colores = ['Azul', 'Rojo', 'Rojo', 'Verde', 'Amarillo', 'Morado']
 print(lista_colores.count('Rojo'))
 print(lista_colores.index('Rojo'))
 
+lista = ['coche', 'moto', 'bici']
+lista.reverse()
+
+print(lista)
+
 
 # lista_colores[1] = 'Naranja'
 # lista_colores.append('Blanco')
