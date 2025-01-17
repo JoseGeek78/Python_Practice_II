@@ -4,7 +4,8 @@ print(lista_colores.count('Rojo'))
 print(lista_colores.index('Rojo'))
 
 lista = ['coche', 'moto', 'bici']
-lista.reverse()
+# lista.reverse()
+lista.sort()
 
 print(lista)
 
