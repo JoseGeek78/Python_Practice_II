@@ -1,11 +1,11 @@
 lista_colores = ['Azul', 'Rojo', 'Rojo', 'Verde', 'Amarillo', 'Morado']
 
-print(lista_colores.count('Rojo'))
-print(lista_colores.index('Rojo'))
+# print(lista_colores.count('Rojo'))
+# print(lista_colores.index('Rojo'))
 
 lista = ['coche', 'moto', 'bici']
 # lista.reverse()
-lista.sort()
+# lista.sort()
 
 print(lista)
 
