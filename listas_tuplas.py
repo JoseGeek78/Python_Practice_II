@@ -1,6 +1,8 @@
 # --- TUPLAS ---
 
+colores = ("rojo", "azul", "verde", "amarillo")
 
+print(colores)
 
 
 
