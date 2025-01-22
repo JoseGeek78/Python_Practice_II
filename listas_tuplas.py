@@ -2,7 +2,7 @@
 
 colores = ("rojo", "azul", "verde", "amarillo")
 
-print(colores)
+print(colores[1])
 
 
 
