@@ -1,14 +1,13 @@
-# --- TUPLAS ---
-
-colores = ("rojo", "azul", "verde", "amarillo")
-
-print(colores[1])
-print(len(colores))
 
 
 
 
-# --- LISTAS ---
+# --- TUPLA ---
+# colores = ("rojo", "azul", "verde", "amarillo")
+
+# print(colores[1])
+# print(len(colores))
+# --- TUPLA ---
 
 # lista_colores = ['Azul', 'Rojo', 'Rojo', 'Verde', 'Amarillo', 'Morado']
 
