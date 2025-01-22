@@ -3,6 +3,7 @@
 colores = ("rojo", "azul", "verde", "amarillo")
 
 print(colores[1])
+print(len(colores))
 
 
 
