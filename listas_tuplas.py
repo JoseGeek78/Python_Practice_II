@@ -1,8 +1,6 @@
-lista_numeros = [10, 45, 55, 76]
+# lista_numeros = [10, 45, 55, 76]
 
-print(f'El valor más pequeño en la lista es el {lista_numeros[0]}. El más grande, el {lista_numeros[3]}.')
-
-
+# print(f'El valor más pequeño en la lista es el {lista_numeros[0]}. El más grande, el {lista_numeros[3]}.')
 
 # --- TUPLA ---
 # colores = ("rojo", "azul", "verde", "amarillo")
