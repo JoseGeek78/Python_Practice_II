@@ -1,9 +1,10 @@
 lista_colores = ['rojo', 'azul', 'verde', 'amarillo']
 
 lista_colores.insert(0, 'gris')
+lista_colores.insert(3, 'naranja')
+lista_colores.append('rosa')
 
-
-
+print(lista_colores)
 # lista_numeros = [10, 45, 55, 76]
 
 # print(f'El valor más pequeño en la lista es el {lista_numeros[0]}. El más grande, el {lista_numeros[3]}.')
