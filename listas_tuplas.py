@@ -1,5 +1,6 @@
 lista_colores = ['rojo', 'azul', 'verde', 'amarillo']
 
+lista_colores.insert(0, 'gris')
 
 
 
