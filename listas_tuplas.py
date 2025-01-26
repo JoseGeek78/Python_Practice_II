@@ -2,7 +2,9 @@ lista_colores = ['rojo', 'azul', 'verde', 'amarillo']
 
 lista_colores.insert(0, 'gris')
 lista_colores.insert(3, 'naranja')
+lista_colores.insert(2, 'morado')
 lista_colores.append('rosa')
+
 
 print(lista_colores)
 # lista_numeros = [10, 45, 55, 76]
