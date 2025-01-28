@@ -1,8 +1,8 @@
 lista_colores = ['Azul', 'Rojo', 'Rojo', 'Verde', 'Amarillo', 'Morado']
 
-lista_colores.pop(1)
-lista_colores.pop(3)
-# lista_colores.pop(3)
+lista_colores.pop(0)
+lista_colores.pop(2)
+lista_colores.pop(2)
 
 print(lista_colores)
 
