@@ -1,3 +1,11 @@
+lista_colores = ['Azul', 'Rojo', 'Rojo', 'Verde', 'Amarillo', 'Morado']
+
+lista_colores.pop(1)
+lista_colores.pop(3)
+# lista_colores.pop(3)
+
+print(lista_colores)
+
 # lista_colores = ['rojo', 'azul', 'verde', 'amarillo']
 
 # lista_colores.insert(0, 'gris')
