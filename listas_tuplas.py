@@ -1,10 +1,14 @@
-lista_colores = ['Azul', 'Rojo', 'Rojo', 'Verde', 'Amarillo', 'Morado']
 
-lista_colores.pop(0)
-lista_colores.pop(2)
-lista_colores.pop(2)
 
-print(lista_colores)
+
+
+# lista_colores = ['Azul', 'Rojo', 'Rojo', 'Verde', 'Amarillo', 'Morado']
+
+# lista_colores.pop(0)
+# lista_colores.pop(2)
+# lista_colores.pop(2)
+
+# print(lista_colores)
 
 # lista_colores = ['rojo', 'azul', 'verde', 'amarillo']
 
