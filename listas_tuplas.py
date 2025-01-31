@@ -1,7 +1,16 @@
+paises = [
+    "Afganistán", "Alemania", "Argentina", "Australia", "Bélgica", "Bolivia", "Brasil", "Canadá", "Chile", "China",
+    "Colombia", "Corea del Sur", "Costa Rica", "Cuba", "Dinamarca", "Ecuador", "Egipto", "El Salvador", "Emiratos Árabes Unidos", "España",
+    "Estados Unidos", "Estonia", "Filipinas", "Finlandia", "Francia", "Ghana", "Grecia", "Guatemala", "Honduras", "Hungría",
+    "India", "Indonesia", "Irlanda", "Islandia", "Italia", "Japón", "Kenia", "Letonia", "Lituania", "Luxemburgo",
+    "Marruecos", "México", "Nicaragua", "Noruega", "Nueva Zelanda", "Países Bajos", "Panamá", "Paraguay", "Perú", "Polonia"
+]
+
+
+
 # lista_numeros = [10,52,58,74,10,10,45,456,321,10,10,10,589,87,5,2,1,4,7]
 
 # print(lista_numeros.count(10))
-
 
 # lista_colores = ['Azul', 'Rojo', 'Rojo', 'Verde', 'Amarillo', 'Morado']
 
