@@ -1,6 +1,6 @@
-lista_numeros = [10,52,58,74,10,10,45,456,321,10,10,10,589,87,5,2,1,4,7]
+# lista_numeros = [10,52,58,74,10,10,45,456,321,10,10,10,589,87,5,2,1,4,7]
 
-print(lista_numeros.count(10))
+# print(lista_numeros.count(10))
 
 
 # lista_colores = ['Azul', 'Rojo', 'Rojo', 'Verde', 'Amarillo', 'Morado']
