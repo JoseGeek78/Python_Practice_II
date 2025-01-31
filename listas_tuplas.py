@@ -6,7 +6,7 @@ paises = [
     "Marruecos", "México", "Nicaragua", "Noruega", "Nueva Zelanda", "Países Bajos", "Panamá", "Paraguay", "Perú", "Polonia"
 ]
 
-
+print(paises.index("Filipinas"))
 
 # lista_numeros = [10,52,58,74,10,10,45,456,321,10,10,10,589,87,5,2,1,4,7]
 
