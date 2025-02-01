@@ -8,10 +8,12 @@ paises = [
 
 print(paises.index("Filipinas"))
 print(paises[22])
+print(len(paises))
 
 lista_numeros = [10,52,58,74,10,10,45,456,321,10,10,10,589,87,5,2,1,4,7]
 
 lista_numeros.sort()
+lista_numeros.sort(reverse=True)
 
 print(lista_numeros)
 
