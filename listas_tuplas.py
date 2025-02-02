@@ -13,8 +13,8 @@ print(len(paises))
 lista_numeros = [10,52,58,74,10,10,45,456,321,10,10,10,589,87,5,2,1,4,7]
 
 lista_numeros.sort()
+print(lista_numeros)
 lista_numeros.sort(reverse=True)
-
 print(lista_numeros)
 
 # lista_colores = ['Azul', 'Rojo', 'Rojo', 'Verde', 'Amarillo', 'Morado']
