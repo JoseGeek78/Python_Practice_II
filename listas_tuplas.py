@@ -1,8 +1,3 @@
-for i in range(5):
-    print(f'El valor del bucle es {i}.')
-
-
-
 #  paises = [
 #     "Afganistán", "Alemania", "Argentina", "Australia", "Bélgica", "Bolivia", "Brasil", "Canadá", "Chile", "China",
 #     "Colombia", "Corea del Sur", "Costa Rica", "Cuba", "Dinamarca", "Ecuador", "Egipto", "El Salvador", "Emiratos Árabes Unidos", "España",
