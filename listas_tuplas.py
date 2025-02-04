@@ -1,10 +1,9 @@
 for i in range(5):
     
-    
 
 
 
-# paises = [
+#  paises = [
 #     "Afganistán", "Alemania", "Argentina", "Australia", "Bélgica", "Bolivia", "Brasil", "Canadá", "Chile", "China",
 #     "Colombia", "Corea del Sur", "Costa Rica", "Cuba", "Dinamarca", "Ecuador", "Egipto", "El Salvador", "Emiratos Árabes Unidos", "España",
 #     "Estados Unidos", "Estonia", "Filipinas", "Finlandia", "Francia", "Ghana", "Grecia", "Guatemala", "Honduras", "Hungría",
