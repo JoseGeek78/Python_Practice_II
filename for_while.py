@@ -1,2 +1,2 @@
-for i in range(5):
+for i in range(8):
     print(f'El valor del bucle es {i}.')
