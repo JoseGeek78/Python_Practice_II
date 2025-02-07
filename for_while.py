@@ -1,8 +1,10 @@
-for i in range(3,13,3):
-    print(f'El valor del bucle es: {i}.')
 
-print('Fin!')
 
+
+# for i in range(3,13,3):
+#     print(f'El valor del bucle es: {i}.')
+
+# print('Fin!')
 
 # for i in range(3,8):
 #     print(f'El valor del bucle es {i}.')
