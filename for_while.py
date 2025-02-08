@@ -1,4 +1,6 @@
+colores = ['Rojo', 'Azul', 'Verde', 'Amarillo', 'Naranja', 'Morado', 'Púrpura']
 
+print('---LISTADO DE COLORES---')
 
 
 
