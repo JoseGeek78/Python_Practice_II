@@ -4,7 +4,8 @@ print('---LISTADO DE COLORES---')
 
 for color in colores:
     if color == 'Naranja' or color == 'Morado':
-        
+        continue
+    
 
 
 
