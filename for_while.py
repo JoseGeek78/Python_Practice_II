@@ -2,6 +2,10 @@ colores = ['Rojo', 'Azul', 'Verde', 'Amarillo', 'Naranja', 'Morado', 'Púrpura']
 
 print('---LISTADO DE COLORES---')
 
+for color in colores:
+    if color == 'Naranja' or color == 'Morado':
+        
+
 
 
 # colores = ['Rojo', 'Azul', 'Verde', 'Amarillo']
