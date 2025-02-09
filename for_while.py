@@ -3,7 +3,8 @@ colores = ['Rojo', 'Azul', 'Verde', 'Amarillo', 'Naranja', 'Rosa']
 print('---LISTADO DE COLORES---')
 
 for color in colores:
-    if color == 'Naranja' or color == 'Rosa':
+    if color == 'Verde' or color == 'Amarillo':
+        print('Se ha saltado este color.')
         continue
     print(f'-Color {color}.')
 
