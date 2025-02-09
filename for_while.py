@@ -1,9 +1,9 @@
-colores = ['Rojo', 'Azul', 'Verde', 'Amarillo', 'Naranja', 'Morado', 'Púrpura']
+colores = ['Rojo', 'Azul', 'Verde', 'Amarillo', 'Naranja', 'Rosa']
 
 print('---LISTADO DE COLORES---')
 
 for color in colores:
-    if color == 'Naranja' or color == 'Morado':
+    if color == 'Naranja' or color == 'Rosa':
         continue
     print(f'-Color {color}.')
 
