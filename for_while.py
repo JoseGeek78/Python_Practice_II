@@ -1,6 +1,6 @@
 i = 2
 
-while i < 16:
+while i <= 16:
     print(f'El valor del bucle es: {i}.')
     i += 2
 
