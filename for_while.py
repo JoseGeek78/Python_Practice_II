@@ -1,9 +1,17 @@
+paises = [
+    "Argentina", "Australia", "Brasil", "Canadá", "China", "Colombia", "Egipto", "España", "Estados Unidos", 
+    "Francia", "India", "Indonesia", "Italia", "Japón", "México", "Nigeria", "Países Bajos", "Perú", 
+    "Polonia", "Portugal", "Reino Unido", "Rusia", "Sudáfrica", "Suecia", "Suiza", "Tailandia", "Turquía", 
+    "Ucrania", "Venezuela", "Vietnam"
+]
+
+
 for i in range (0,-5001,-500):
-    print(f'El valor del bucle es {i}.')
+#    print(f'El valor del bucle es {i}.')
 
-i = 2
+# i = 2
 
-while i <= 16:
+# while i <= 16:
 #    print(f'El valor del bucle es: {i}.')
     i += 2
 
