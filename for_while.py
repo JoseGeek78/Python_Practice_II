@@ -1,4 +1,5 @@
-
+for i in range (0,-5001,-500):
+    print(f'El valor del bucle es {i}.')
 
 
 i = 2
