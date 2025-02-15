@@ -1,22 +1,34 @@
-paises = [
-    "Argentina", "Australia", "Brasil", "Canadá", "China", "Colombia", "Egipto", "España", "Estados Unidos", 
-    "Francia", "India", "Indonesia", "Italia", "Japón", "México", "Nigeria", "Países Bajos", "Perú", 
-    "Polonia", "Portugal", "Reino Unido", "Rusia", "Sudáfrica", "Suecia", "Suiza", "Tailandia", "Turquía", 
-    "Ucrania", "Venezuela", "Vietnam"
-]
+# Lista de países
+# paises = [
+#     "Argentina", "Australia", "Brasil", "Canadá", "China", "Colombia", "Egipto", "España", "Estados Unidos", 
+#     "Francia", "India", "Indonesia", "Italia", "Japón", "México", "Nigeria", "Países Bajos", "Perú", 
+#     "Polonia", "Portugal", "Reino Unido", "Rusia", "Sudáfrica", "Suecia", "Suiza", "Tailandia", "Turquía", 
+#     "Ucrania", "Venezuela", "Vietnam"
+# ]
 
-for pais in paises:
-    print(f'-> {pais} <-')
+# Bucle para recorrer la lista de países e imprimir cada uno
+# for pais in paises:
+#     print(f'-> {pais} <-')
 
 # ---------------------------------------------
-for i in range (0,-5001,-500):
-#    print(f'El valor del bucle es {i}.')
 
+# Bucle que decrementa de 0 a -5000 en pasos de -500
+# for i in range(0, -5001, -500):
+#     print(f'El valor del bucle es {i}.')
+
+# ---------------------------------------------
+
+# Bucle while que incrementa desde 2 hasta 16 en pasos de 2
 # i = 2
+# while i <= 16:
+#     print(f'El valor del bucle es: {i}.')
+#     i += 2
+
 
 # while i <= 16:
 #    print(f'El valor del bucle es: {i}.')
-    i += 2
+#    i += 2
+
 
 # colores = ['Rojo', 'Azul', 'Verde', 'Amarillo', 'Naranja', 'Rosa']
 
