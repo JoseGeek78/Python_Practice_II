@@ -8,7 +8,7 @@ paises = [
 for pais in paises:
     print(f'-> {pais} <-')
 
-
+# ---------------------------------------------
 for i in range (0,-5001,-500):
 #    print(f'El valor del bucle es {i}.')
 
