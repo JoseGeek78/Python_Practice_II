@@ -12,7 +12,7 @@ for i in lista_numeros:
     else:
         print(f'El valor del elemento es: {i}.')
 
-
+# --------------------------------------
 # Lista de países
 # paises = [
 #     "Argentina", "Australia", "Brasil", "Canadá", "China", "Colombia", "Egipto", "España", "Estados Unidos", 
