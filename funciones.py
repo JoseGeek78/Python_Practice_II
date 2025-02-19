@@ -1,2 +1,3 @@
 def saludar():
-    nombre
+    nombre = input('Introduzca su nombre, por favor\n')
+    
