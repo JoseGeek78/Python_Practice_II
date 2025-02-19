@@ -1,16 +1,20 @@
-lista_numeros = [10,45,356,10,10,10,46,67,45,10,10,43,10,65,10,10]
+
+
+
+
+#lista_numeros = [10,45,356,10,10,10,46,67,45,10,10,43,10,65,10,10]
 
 # Se ordena la lista de menor a mayor.
-lista_numeros.sort()
-
+#lista_numeros.sort()
+#
 # Bucle para iterar la lista.
-for i in lista_numeros:
-    if i == 10:
-        continue # Se omiten los valores 10.
-    elif i ==356:
-        break # Se rompe la iteración, rompe la ejecución del bucle.
-    else:
-        print(f'El valor del elemento es: {i}.')
+#for i in lista_numeros:
+#    if i == 10:
+#        continue # Se omiten los valores 10.
+#    elif i ==356:
+#        break # Se rompe la iteración, rompe la ejecución del bucle.
+#    else:
+#        print(f'El valor del elemento es: {i}.')
 
 # ---------------------------------------
 # Lista de países
