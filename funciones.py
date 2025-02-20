@@ -1,5 +1,4 @@
-def saludar():
-    nombre = input('Introduzca su nombre, por favor.\n')
+def saludar(nombre):
     print(f'!Hola {nombre}!')
     
 saludar()
