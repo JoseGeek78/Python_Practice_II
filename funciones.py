@@ -5,6 +5,20 @@ resultado = suma(5289553, 484545)
 
 print(resultado)
 
+def resta(numero1,numero2):
+    return numero1 - numero2
+
+resultado2 = resta(5689, 985)
+
+print(resultado2)
+
+def multiplicacion(numero1,numero2):
+    return numero1 * numero2
+
+resultado3 = multiplicacion(56948,2569878)
+
+print(resultado3)
+
 # def saludar(nombre, edad):
 #     print(f'!Hola {nombre}!')
 #     print(f'Tú tienes {edad} años.')
