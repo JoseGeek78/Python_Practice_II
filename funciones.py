@@ -19,6 +19,13 @@ resultado3 = multiplicacion(56948,2569878)
 
 print(resultado3)
 
+def division(numero1,numero2):
+    return numero1 / numero2
+
+resultado4 = division(589654,256)
+
+print(resultado4)
+
 # def saludar(nombre, edad):
 #     print(f'!Hola {nombre}!')
 #     print(f'Tú tienes {edad} años.')
