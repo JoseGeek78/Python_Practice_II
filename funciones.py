@@ -1,12 +1,15 @@
-def suma(numero1,numero2):
-    return numero1 + numero2
 
-resultado1 = suma(225, 58)
-resultado2 = suma(98, 785)
 
-suma_sumas = resultado1 + resultado2
 
-print(suma_sumas)
+#def suma(numero1,numero2):
+#    return numero1 + numero2
+#
+#resultado1 = suma(225, 58)
+#resultado2 = suma(98, 785)
+
+#suma_sumas = resultado1 + resultado2
+
+#print(suma_sumas)
 
 
 #def suma(numero1,numero2):
