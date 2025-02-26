@@ -1,4 +1,11 @@
+colores = ['rojo', 'verde', 'amarillo']
 
+def añadir_color(color):
+    colores.insert(0, color)
+    
+añadir_color(input('Escriba un color para añadirlo a la lista:\n'))
+
+print(colores)
 
 
 #def suma(numero1,numero2):
