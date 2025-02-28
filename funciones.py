@@ -7,7 +7,6 @@ añadir_animals(input('Escriba un animal para añadir a la lista:\n'))
 
 print(animales)
 
-
 #colores = ['rojo', 'verde', 'amarillo']
 
 #def añadir_color(color):
