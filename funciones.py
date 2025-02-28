@@ -7,14 +7,14 @@
 
 #print(colores)
 
-transporte = ['bicicleta', 'autobús', 'coche']
+#transporte = ['bicicleta', 'autobús', 'coche']
 
-def añadir_transport(transport):
-    transporte.insert(0, transport)
+#def añadir_transport(transport):
+#    transporte.insert(0, transport)
     
-añadir_transport(input('Escriba un medio de transporte para añadirlo a la lista:\n'))
+#añadir_transport(input('Escriba un medio de transporte para añadirlo a la lista:\n'))
 
-print(transporte)
+#print(transporte)
 
 #def suma(numero1,numero2):
 #    return numero1 + numero2
