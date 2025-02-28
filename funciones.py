@@ -1,3 +1,13 @@
+animales = ['perro', 'gato', 'lobo']
+
+def añadir_animals(animals):
+    animales.insert(0, animals)
+
+añadir_animals(input('Escriba un animal para añadir a la lista:\n'))
+
+print(animales)
+
+
 #colores = ['rojo', 'verde', 'amarillo']
 
 #def añadir_color(color):
