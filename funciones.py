@@ -3,7 +3,9 @@ nombres = ['Jose', 'Jimena', 'Natalia']
 def añadir_names(names):
     nombres.insert(0, names)
     
+añadir_names(input('Esriba un nombre para añadir a la lista:\n'))
 
+print(nombres)
 
 
 animales = ['perro', 'gato', 'lobo']
