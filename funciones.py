@@ -7,15 +7,14 @@ añadir_names(input('Esriba un nombre para añadir a la lista:\n'))
 
 print(nombres)
 
+#animales = ['perro', 'gato', 'lobo']
 
-animales = ['perro', 'gato', 'lobo']
+#def añadir_animals(animals):
+#    animales.insert(0, animals)
 
-def añadir_animals(animals):
-    animales.insert(0, animals)
+#añadir_animals(input('Escriba un animal para añadir a la lista:\n'))
 
-añadir_animals(input('Escriba un animal para añadir a la lista:\n'))
-
-print(animales)
+#print(animales)
 
 #colores = ['rojo', 'verde', 'amarillo']
 
