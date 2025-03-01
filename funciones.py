@@ -1,3 +1,11 @@
+nombres = ['Jose', 'Jimena', 'Natalia']
+
+def añadir_names(names):
+    nombres.insert(0, names)
+    
+
+
+
 animales = ['perro', 'gato', 'lobo']
 
 def añadir_animals(animals):
