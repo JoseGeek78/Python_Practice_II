@@ -1,4 +1,6 @@
-
+# Definimos funciones para cada operación matemática:
+def suma(a, b):
+    return a + b
 
 
 #nombres = ['Jose', 'Jimena', 'Natalia']
