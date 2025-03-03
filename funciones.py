@@ -2,7 +2,20 @@
 def suma(a, b):
     return a + b
 
+def resta(a, b):
+    return a - b
 
+def multiplicacion(a, b):
+    return a * b
+
+def division(a, b):
+    if b == 0:
+        return "Error: No se puede divivir por cero."
+    return a / b
+
+#Función principal que muestra en el menú y obtiene la entrada del usuario
+
+def
 #nombres = ['Jose', 'Jimena', 'Natalia']
 
 #def añadir_names(names):
