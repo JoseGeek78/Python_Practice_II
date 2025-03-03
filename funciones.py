@@ -14,8 +14,13 @@ def division(a, b):
     return a / b
 
 #Función principal que muestra en el menú y obtiene la entrada del usuario
+def calculadora():
+    while True:
+        
+        
 
-def
+
+
 #nombres = ['Jose', 'Jimena', 'Natalia']
 
 #def añadir_names(names):
