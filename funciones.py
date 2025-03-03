@@ -5,7 +5,16 @@ def suma(a, b):
 def resta(a, b):
     return a - b
 
+def multiplicacion(a, b):
+    return a * b
 
+def division(a, b):
+    if b == 0:
+        return "Error: No se puede dividir por cero"
+    return a / b
+
+# Función principal que muestra el menú y obtiene la entrada del usuario
+def calculadora():
 
 
 #nombres = ['Jose', 'Jimena', 'Natalia']
