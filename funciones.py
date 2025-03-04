@@ -31,7 +31,13 @@ def calculadora():
         
         if opcion in ('1', '2', '3', '4'):
             try:
-        
+                num1 = float(input("Ingrese el primer número: "))
+                num2 = float(input("Ingrese el segundo número: "))
+            except ValueError:
+                print("Error: Ingrese valores numérocos válidos.")
+                continue
+            
+            if option == '1':
 
 
 
