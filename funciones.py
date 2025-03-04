@@ -17,11 +17,20 @@ def division(a, b):
 def calculadora():
     while True:
         print("Seleccione una oración:\n")
-        print()
-        print()
-        print()
-        print()
-        print()
+        print("1. Suma")
+        print("2. Resta")
+        print("3. Multiplicación")
+        print("4. División")
+        print("5. Salir")
+        
+        opcion = input("Ingrese el número de la operación deseada: ")
+        
+        if opcion == '5':
+            print("Saliendo de la calculadora.")
+            break
+        
+        if opcion in ('1', '2', '3', '4'):
+            try:
         
 
 
