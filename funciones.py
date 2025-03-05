@@ -37,7 +37,9 @@ def calculadora():
                 print("Error: Ingrese valores numérocos válidos.")
                 continue
             
-            if option == '1':
+            if opcion == '1':
+                print(f"Resultado: {suma(num1, num2)}")
+            elif
 
 
 
