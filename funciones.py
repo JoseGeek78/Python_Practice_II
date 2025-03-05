@@ -16,7 +16,7 @@ def division(a, b):
 #Función principal que muestra en el menú y obtiene la entrada del usuario
 def calculadora():
     while True:
-        print("Seleccione una oración:\n")
+        print("Seleccione una operación:\n")
         print("1. Suma")
         print("2. Resta")
         print("3. Multiplicación")
